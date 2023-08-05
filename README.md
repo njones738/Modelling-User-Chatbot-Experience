@@ -1,54 +1,35 @@
-# PROJECT TITLE
+# Modeling User Chatbot Experience
 
-TBD
+I particpated in an applied research project course taught by Dr. Sherry Ni and sponsored by Southern Company. During this project I worked in a team of 3 with the goal of finding actionable improvements to Southern Company's internal chatbot using text analysis, topic modeling, and data reporting.
 
 ### __Project Purpose__    
-* TBD  
-* TBD  
+The purpose of this project was to find actionable improvements to Southern Company's internal chatbot for a better user experience. 
 
 ### __Tools used__     
-* TBD  
-* TBD  
+* Python  
+* R  
+* Huggingface
+* BERTopic
+* SpaCy
 
 ### __Results__    
-* TBD  
-* TBD  
+* The results of this project were presented to Southern Company employees at the end of the semester in the form of a Powerpoint presentation  
+* Awarded 1st place by Southern Company
 
 ## Folder structure
 
 ```
 - readme.md
-- scripts
+- deliverables
 ---- readme.md
----- 
-- data
----- readme.md
----- 
-- documents
----- readme.md
+---- Final Presentation Southern Company.pptx
 ---- 
 ```
 
 ## Deliverables
 
-* TBD     
-* TBD     
-* TBD     
+* Final Presentation Southern Company        
 
 ## Data sources
 
-* TBD     
-* TBD     
-* TBD     
-
-## Github pages
-
-* TBD     
-* TBD     
-* TBD     
-
-## Questions
-
-* TBD     
-* TBD     
-* TBD     
+* Data was provided by Southern Company       
